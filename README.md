@@ -18,15 +18,11 @@ Soy un desarrollador en constante aprendizaje, buscando mi primera oportunidad p
 - 🌱 Aprendiendo activamente sobre **[Ej: React, Node.js, Bases de Datos, etc.]**
 - 🎯 Mi objetivo actual: **Conseguir mi primer empleo como Junior/Trainee Developer.**
 - 💬 Pregúntame sobre: **Mi proceso de aprendizaje y mi motivación por la programación.**
-- 📫 Cómo contactarme: **[tu-email@ejemplo.com]**
+- 📫 Cómo contactarme: **[gallodavid48@gmail.com]**
 
 
 ### 🌐 Conéctate Conmigo
-<div align="center">
-  <a href="https://linkedin.com/in/[TU_LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:[tu-email@ejemplo.com]">
+  <a href="mailto:[gallodavid48@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </div>
