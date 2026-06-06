@@ -1,10 +1,10 @@
 # Hola, soy [D-AVID S-TEVEN] 👋
 
-## 🚀 [Ej: Desarrollador Web | Apasionado por crear soluciones]
+## 🚀 [Desarrollador Web | Tu idea mi reto]
 
 Soy un desarrollador en constante aprendizaje, buscando mi primera oportunidad profesional en el mundo de la tecnología. Me encanta enfrentar retos, aprender nuevas herramientas y construir proyectos desde cero. Aunque no tenga un portafolio extenso aún, compenso con mucha curiosidad y ganas de aportar valor.
 
-### 🛠️ Tecnologías y Herramientas que manejo (o estoy aprendiendo)
+### 🛠️ Tecnologías y Herramientas que manejo
 <!-- Puedes añadir o quitar escudos según lo que sepas. -->
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -20,11 +20,6 @@ Soy un desarrollador en constante aprendizaje, buscando mi primera oportunidad p
 - 💬 Pregúntame sobre: **Mi proceso de aprendizaje y mi motivación por la programación.**
 - 📫 Cómo contactarme: **[tu-email@ejemplo.com]**
 
-### 📊 Mis Estadísticas
-<!-- Cambia TU_USUARIO_AQUI por tu nombre de usuario real de GitHub -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dsgnat&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
-</div>
 
 ### 🌐 Conéctate Conmigo
 <div align="center">
